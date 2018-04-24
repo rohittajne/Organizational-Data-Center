@@ -1,0 +1,18 @@
+INSERT INTO  `minic`.`registration_table` (
+`Name` ,
+`Enrollment No.` ,
+`Branch` ,
+`Academic Year` ,
+`Gender` ,
+`BDate` ,
+`Address` ,
+`Contact` ,
+`Email` ,
+`BloodGroup` ,
+`Password` ,
+`user_name`
+)
+VALUES (
+'Vinayak S. Sonawane',  '0900780164',  'CM',  'Third Year',  'Male',  '1994-12-05',  'Amrutdham, nashik',  '8605840210',  'vinayak.sonawane12@gmail.com',  'B+',  '9890989232',  'vinu.sonawane'
+);
+
